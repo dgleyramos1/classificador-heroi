@@ -1,6 +1,4 @@
 const readline = require("readline");
-// var distance = prompt("Digite aqui a distância");
-// var distance1 = prompt("Digite aqui a distância da casa");
 
 const rl = readline.createInterface({
   input: process.stdin,
